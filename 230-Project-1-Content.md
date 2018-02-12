@@ -1,4 +1,4 @@
-# (NAME SPACE)
+# TEAR THE STAGE
 
 ## I. High Concept
 This is "Guitar Hero" on your computer. Hit the right key at the right time and beat the high score!
@@ -30,6 +30,7 @@ Players will use the keyboard keys "S,D,F, Spacebar, J, K, L" to hit the notes
 Mouse to navigate throughout the menus.
 
 Touch to play and navigate (Mobile only)
+Only 3 notes to follow instead of 7 (Mobile Only)
 
 There will be different difficulties.
 
@@ -37,8 +38,9 @@ hit the notes when they reach the bottom.
 
 Try to score as high as you can
 
-## VII.Screenshots
-
+## VII. Screenshots
+![alt text](https://github.com/calvintoes/IGME230/blob/master/IMG_0906.jpg)
+![alt text](https://github.com/calvintoes/IGME230/blob/master/game_visual1.JPG)
 
 ## VIII. Other
 
