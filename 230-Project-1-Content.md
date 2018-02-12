@@ -29,9 +29,7 @@ Players will use the keyboard keys "S,D,F, Spacebar, J, K, L" to hit the notes
 
 Mouse to navigate throughout the menus.
 
-//Mobile
-Touch to play and navigate
-//
+Touch to play and navigate (Mobile only)
 
 There will be different difficulties.
 
