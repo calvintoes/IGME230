@@ -19,16 +19,21 @@ Desktop and Mobile
 
 ## V. Esthetics
 Graphics: abstract, colorful vectored, sleek design
+
 Sound: Songs that I have preset in the game
 
 ## VI. Gameplay
-*Players will use the keyboard keys "S,D,F, Spacebar, J, K, L" to hit the notes; mouse to navigate throughout the menus.
+There will be a pop up showing the keys that will need to be used to play.
 
-*There will be a pop up showing the keys that will need to be used to play.
+Players will use the keyboard keys "S,D,F, Spacebar, J, K, L" to hit the notes 
 
-*There will be different difficulties.
+Mouse to navigate throughout the menus.
 
-*Try to score as high as you can
+There will be different difficulties.
+
+hit the notes when they reach the bottom.
+
+Try to score as high as you can
 
 ## VII.Screenshots
 
